@@ -2,7 +2,7 @@
 
 1. **Clone the repository and configure your API key:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com](https://github.com/sunjit41/My-Chat.git
    cd My-Chat
    cp .env.example .env
    ```
